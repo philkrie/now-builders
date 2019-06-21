@@ -4,7 +4,9 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "lerna": "^3.4.3"
+    "lerna": "^3.4.3",
+    "yarm": "^0.4.0",
+    "yarn": "^1.16.0"
   },
   "workspaces": [
     "packages/*"
